@@ -1,0 +1,11 @@
+node_modules
+public/*
+build
+.env
+.env.exemple
+.env.test
+
+package-lock.json
+yarn.lock
+yarn-error.log
+node_modules
